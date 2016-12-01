@@ -1,0 +1,39 @@
+
+#content_wrapper{
+	background-color: 00ff00;
+}
+#header{
+	background-color: #FF5733;
+}
+
+#footer{
+	background-color: #264B99;
+}
+
+#content{
+	background-color: #10BF07;
+}
+
+#left_content{
+	background-color: #37F5BE;
+}
+
+#right_content{
+	background-color: #595CF8;
+}
+
+#right_top{
+	background-color: #2AD812;
+}
+
+#right_bottom{
+	background-color: #D812C3;
+}
+#right_top_left{
+	background-color: #05888C;
+	color: #fff;
+}
+
+#right_top_right{
+	background-color: #00ff99;
+}
